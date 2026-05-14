@@ -1,0 +1,13 @@
+Produto,Categoria,Quantidade,Preco,Data
+Notebook,Eletrônicos,5,2500.00,2024-01-15
+Mouse,Periféricos,20,50.00,2024-01-16
+Teclado,Periféricos,15,150.00,2024-01-17
+Monitor,Eletrônicos,8,800.00,2024-01-18
+Webcam,Periféricos,12,200.00,2024-01-19
+Headset,Áudio,25,300.00,2024-01-20
+SSD,Hardware,30,400.00,2024-01-21
+RAM,Hardware,18,350.00,2024-01-22
+Placa de Vídeo,Hardware,3,2000.00,2024-01-23
+Tablet,Eletrônicos,10,1200.00,2024-01-24
+Smartphone,Eletrônicos,22,1800.00,2024-01-25
+Cabo USB,Periféricos,50,30.00,2024-01-26
