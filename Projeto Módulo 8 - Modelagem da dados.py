@@ -107,6 +107,7 @@ class GestaoProdutos:
 
 gestao=GestaoProdutos()
 
+
 while True:
     print("[ 1 ] Adicionar produto")
     print("[ 2 ] Listar produtos")
